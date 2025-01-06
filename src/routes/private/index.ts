@@ -1,5 +1,5 @@
 import express from "express";
-import userRouter from "./user.router";
+import userRouter from "./userRouter";
 
 export const private_api = express.Router();
 
